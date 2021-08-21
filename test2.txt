@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E9D-5BFC
+
+ Directory of C:\apps\Git\myrepo
+
+21-08-2021  14:02    <DIR>          .
+21-08-2021  14:02    <DIR>          ..
+20-08-2021  19:54               348 test.txt
+21-08-2021  14:02                 0 test2.txt
+               2 File(s)            348 bytes
+               2 Dir(s)  322,887,847,936 bytes free
